@@ -11,7 +11,8 @@ Creates a GUI with a menu bar containing two items: "File" and "About." "About" 
 Limitations
 May only use Java Util, Java AWT, Java Swing, and only one external library is allowed: JFreeChart.
 
-File
+Files:
+
 Load a Roster : Selecting this feature will prompt the user for a File path to a CSV (Comma Separated Values) file. Data from the file will be read and loaded into a data structure, then displayed in a table. There will be horizontal and vertical scrollbars to allow the user to pan through the data table.
 
 - File input will have six fields per row: ID number, first name, last name, program and plan, academic level, and ASURITE.
