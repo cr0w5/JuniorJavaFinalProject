@@ -25,11 +25,10 @@ Save : Selecting this feature will save all the data in the displayed table into
 
 Plot Data : Selecting this feature will create a scatter plot using the attendance data per student. The y-axis is the number of students and the x-axis is a percent representation of the student's presence during the meeting, where 100% represents the full 75 minutes or more.
 
-About
-Team Members:
-
-Linda Lau - ltlau@asu.edu
-Jenny Wong - jwwong5@asu.edu (Me)
-Simran Bhalla - ssbhalla@asu.edu
-Emmanuel Copado - ecopado@asu.edu
-Nicholas Fulton - nkfulton@asu.edu
+>## About
+>Team Members:
+>- Linda Lau - ltlau@asu.edu
+>- Jenny Wong - jwwong5@asu.edu (Me)
+>- Simran Bhalla - ssbhalla@asu.edu
+>- Emmanuel Copado - ecopado@asu.edu
+>- Nicholas Fulton - nkfulton@asu.edu
